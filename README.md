@@ -1,10 +1,13 @@
 # BitTiger Capstone Project
 ## Project Track
-**Strong**__Track 1 - Data Mining and Analysis System for Cloudacl__
+__Track 1 - Data Mining and Analysis System for Cloudacl__
 
 ## Project Objective:
+
 * Building a data pipeline with the functionalities including but not limited to data processing, data storage and data visualization.
+
 * Extracting data features and making recommendations based on the results
+
 ## Project Introduction:
 Cloudacl is the leading provider of security and infrastructure service
 that make the Internet safer through integrated Web content filtering. It provides
@@ -15,9 +18,13 @@ ip, timestamp, url and category of the url.
 
 ## Team Members:
 Chen Zhiting
+
 Haotian Zhang
+
 Song Yu
+
 Sun Yang
+
 Tianyang Lin
 
 ## Data Format:
@@ -38,7 +45,9 @@ Web Log
   * Distribute tasks to team members
   
 2. Week 2 (Mar 26) - Building Data Management System
-  * Build data pipelines, including message queue, data storage and data processing models
+  
+  * Build data pipelines, including message queue, data storage and data processing models
+  
   * Ensure the system meet industrial performance requirements and industry practices
  
 3. Week 3 (Apr 2) - Improvement and Customization
