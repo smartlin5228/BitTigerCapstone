@@ -1,4 +1,5 @@
 # BitTiger Capstone Project
+
 ## Project Track
 __Track 1 - Data Mining and Analysis System for Cloudacl__
 
@@ -38,24 +39,22 @@ Web Log
 ## Timeline:
 
 1. Week 1 (Mar 19) - Brainstorming and making plans to the project.
-  * Interpret data format
-  * Research industrial performance for the expected data system
-  * Find suitable techniques to extract valuable data
-  * Explore possible services and technical stacks for the project
-  * Distribute tasks to team members
+	* Interpret data format
+	* Research industrial performance for the expected data system
+	* Find suitable techniques to extract valuable data
+	* Explore possible services and technical stacks for the project
+	* Distribute tasks to team members
   
 2. Week 2 (Mar 26) - Building Data Management System
-  
-  * Build data pipelines, including message queue, data storage and data processing models
-  
-  * Ensure the system meet industrial performance requirements and industry practices
+	* Build data pipelines, including message queue, data storage and data processing models
+	* Ensure the system meet industrial performance requirements and industry practices
  
 3. Week 3 (Apr 2) - Improvement and Customization
-  * Develop data set processes for data modeling, mining and production
-  * Create custom software components (e.g. specialized UDFs) and analytics applications
-  * Employ data visualization to data reports
+	* Develop data set processes for data modeling, mining and production
+	* Create custom software components (e.g. specialized UDFs) and analytics applications
+	* Employ data visualization to data reports
   
 4. Week 4 (Apr 7) - Finishing project
-  * Collect performance report
-  * Create project doc
-  * Make slides for presentation
+	* Collect performance report
+	* Create project doc
+	* Make slides for presentation
